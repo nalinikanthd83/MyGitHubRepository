@@ -1,1 +1,3 @@
 Another file in feature1 branch
+
+Adding new line
